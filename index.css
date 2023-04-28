@@ -14,7 +14,7 @@ body{
     position: absolute;
     background: black;
     border-radius: 10px;
-    transform-origin: bottom;
+    transform-origin: center;
 }
 #hour{
   width: 1%;
