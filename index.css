@@ -3,8 +3,8 @@ body{
 }
 #clockContainer{
     margin: auto;
-    height: 400px;
-    width: 400px;
+    height: 40vw;
+    width: 40vw;
     background: url(clock.png.jpeg) no-repeat;
     background-size: 100%;
     position: relative;
@@ -14,7 +14,7 @@ body{
     position: absolute;
     background: black;
     border-radius: 10px;
-    transform-origin: center;
+    transform-origin: bottom;
 }
 #hour{
   width: 1%;
